@@ -1,3 +1,5 @@
+// Copyright 2026 Georgiy Zhbannikov
+
 #ifndef INCLUDE_TEXTGEN_H_
 #define INCLUDE_TEXTGEN_H_
 
@@ -30,4 +32,4 @@ class MarkovTextGenerator {
   std::string getRandomSuffix(const Prefix& prefix);
 };
 
-#endif
+#endif // INCLUDE_TEXTGEN_H_
