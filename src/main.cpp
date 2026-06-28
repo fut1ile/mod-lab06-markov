@@ -1,3 +1,5 @@
+// Copyright 2026 Georgiy Zhbannikov
+
 #include <algorithm>
 #include <fstream>
 #include <iostream>
